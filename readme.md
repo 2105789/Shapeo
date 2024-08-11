@@ -22,8 +22,8 @@ Curvetopia is an interactive Python application designed to analyze, manipulate,
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/curvetopia.git
-   cd curvetopia
+   git clone https://github.com/2105789/Shapeo
+   cd Shapeo
    ```
 
 2. Create a virtual environment (optional but recommended):
