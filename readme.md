@@ -11,6 +11,23 @@ Curvetopia is an interactive Python application designed to analyze, manipulate,
 3. **Symmetry Detection**: Detect and visualize symmetry in curves using machine learning techniques.
 4. **Curve Completion**: Complete partial curves based on their identified shape and characteristics.
 
+## Output Examples
+
+### Curve Completion
+![Curve Completion 1](https://raw.githubusercontent.com/2105789/Shapeo/main/output/Curve%20Completion%201.png)
+![Curve Completion 2](https://raw.githubusercontent.com/2105789/Shapeo/main/output/Curve%20Completion%202.png)
+
+### Curve Regularization
+![Regularize Curves](https://raw.githubusercontent.com/2105789/Shapeo/main/output/Regularize%20Curves.png)
+
+### Shape Classification
+![Shape Classification 1](https://raw.githubusercontent.com/2105789/Shapeo/main/output/Shape%20Classification%201.png)
+![Shape Classification 2](https://raw.githubusercontent.com/2105789/Shapeo/main/output/Shape%20Classification%202.png)
+![Shape Classification 3](https://raw.githubusercontent.com/2105789/Shapeo/main/output/Shape%20Classification%203.png)
+
+### Symmetry Detection
+![Symmetry Detection](https://raw.githubusercontent.com/2105789/Shapeo/main/output/Symmetry%20Detection.png)
+
 ## Installation
 
 ### Prerequisites
@@ -22,8 +39,8 @@ Curvetopia is an interactive Python application designed to analyze, manipulate,
 
 1. Clone the repository:
    ```
-   git clone https://github.com/2105789/Shapeo
-   cd Shapeo
+   git clone https://github.com/2105789/Shapeo.git
+   cd curvetopia
    ```
 
 2. Create a virtual environment (optional but recommended):
@@ -84,12 +101,4 @@ Contributions to Curvetopia are welcome! Please feel free to submit a Pull Reque
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgments
-
-- This project was inspired by the Curvetopia assignment from [Your Institution/Course Name].
-- Special thanks to [Any individuals or resources you want to acknowledge].
-
-## Contact
-
-For any queries or suggestions, please open an issue on the GitHub repository or contact [Your Name/Email].
 
